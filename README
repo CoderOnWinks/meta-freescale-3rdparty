@@ -38,3 +38,5 @@ When creating a patch of the last commit, use
 To send it to the community, use
 
     git send-email --to meta-freescale@yoctoproject.org <generated patch>
+
+Something New
